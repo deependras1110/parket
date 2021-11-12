@@ -1,0 +1,9 @@
+.contactusButton{
+    border: 2px;
+    padding: 10px 15px;
+    font-weight:bold;
+    background-color: #3264fc;
+    background-image: linear-gradient(to right top, #7604fe, #6333ff, #5048ff, #3f58ff, #3264fc);
+    color:white;
+    cursor:pointer;
+}
